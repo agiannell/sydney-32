@@ -25,9 +25,9 @@ body {
 
 .app-hearts {
   height: 5rem;
-  position: fixed;
+  position: absolute;
   left: 4rem;
-  top: 18rem;
+  top: 15rem;
   transform: rotate(-50deg);
 }
 
