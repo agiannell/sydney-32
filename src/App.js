@@ -22,7 +22,9 @@ function App() {
           I hope you have an incredible day. You are amazing, and I love you
           soooooo so so soo MUCH! ❤
         </h3>
-        <h3 style={{marginTop: '2rem'}}>Pssst.... tap the spinning bowl to see what I got you 😉</h3>
+        <h3 style={{ marginTop: "2rem" }}>
+          Pssst.... tap the spinning bowl to see what I got you 😉
+        </h3>
       </section>
     </section>
   );
